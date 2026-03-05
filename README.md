@@ -13,7 +13,8 @@ casein-md-study
 ├ analysis
 ├ figures
 ├ colab
-└ notes
+├ notes
+└ scripts
 
 Analysis notes are published on note:
 
