@@ -8,6 +8,13 @@ This repository contains notes and analysis related to the simulation study.
 
 ## Research Log
 
+Project structure
+casein-md-study
+├ analysis
+├ figures
+├ colab
+└ notes
+
 Analysis notes are published on note:
 
 https://note.com/casein_lab
